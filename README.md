@@ -2,7 +2,7 @@
 
 I am a 15 year old developer from England who mainly uses the programming language Python.
 
-#Languages I use:
+# Languages I use:
 
 ```
 . Python
