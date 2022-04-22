@@ -13,3 +13,7 @@ I am a 15 year old developer from England who mainly uses the programming langua
 . HTML
 . CSS
 ```
+# My socials:
+
+```
+[My Discord server](https://dsc.gg/ariesbycoded)
