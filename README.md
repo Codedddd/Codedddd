@@ -1,6 +1,15 @@
 # About me:
 
-I am a 15 year old developer from the UK who leads the Aries project with roughly 1 year of experience.
+I am a 15 year old developer from England who mainly uses the programming language Python.
 
-# My languages:
+#Languages I use:
 
+```
+. Python
+. SQL
+. JSON
+. Dart
+. Ruby
+. HTML
+. CSS
+```
