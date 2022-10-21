@@ -14,7 +14,7 @@ I also spend my time working on programs and web-development.
 - OSINT tools.
 ```
 
-## Languages I know (Inluding markups)?
+## Languages I know (Including markups)?
 
 ```
 - PHP
