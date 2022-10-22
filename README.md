@@ -21,6 +21,7 @@ I also spend my time working on programs and web-development.
 - HTML
 - CSS
 - Python
+- Ruby
 - Dart
 - Markdown
 - JSON
