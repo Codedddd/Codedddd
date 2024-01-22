@@ -1,3 +1,1 @@
-"Not even an itch on your daddy's ballsack."
-
-![Judy Alvarez Call Picture!](https://media.tenor.com/y-AimWHokJQAAAAM/judy-alvarez-icon-judy-alvarez.gif)
+["Not even an itch on your daddy's ballsack."](https://preview.redd.it/looking-to-get-a-tattoo-of-this-annoying-voice-in-my-head-v0-asenvn3bjnla1.jpg?width=640&crop=smart&auto=webp&s=0fd18de960bf3325a7dede5cb7d1d83653ed425a)
